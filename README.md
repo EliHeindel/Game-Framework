@@ -12,7 +12,7 @@ The purpose of writing this software was to gain hands-on experience in game dev
 
 # Software Demo Video
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=g-LdvTs-OH4))
 
 # Development Environment
 
